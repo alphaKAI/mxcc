@@ -1,0 +1,9 @@
+{
+	"name": "mxcc",
+	"authors": [
+		"庄司明洋"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, 庄司明洋",
+	"license": "proprietary"
+}
